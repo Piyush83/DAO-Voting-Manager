@@ -2,9 +2,9 @@
 
 ## Introduction
 
-I have made DUP DAO for the _Social & DAOs - DAO Voting Key Manager For UP Based DAO And Interface_ at **Hackathon: LUKSO Build UP! #1** .
+I have made DUP DAO for the _Social & DAOs - DAO Voting Key Manager For UP Based DAO And Interface_ at **Hackathon: CodeUp-Hack-22** .
 
-For this hack I thought that DAOs are very well explored area in web3 and it makes no sense to invent the wheel from scratch. So I decided to go with open-zepplin contracts and make them compatible with LUKSO's LSP.
+For this hack I thought that DAOs are very well explored area in web3 and it makes no sense to invent the wheel from scratch. So I decided to go with open-zepplin contracts.
 
 ### Links:
 
