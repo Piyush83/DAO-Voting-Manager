@@ -8,14 +8,7 @@ For this hack I thought that DAOs are very well explored area in web3 and it mak
 
 ### Links:
 
-- [Live Version](https://dupdao.com/)
 - [Video Demo](https://www.youtube.com/watch?v=oc5A16wiLSQ)
-- [Storage Test Contracts](https://www.dupdao.com/storage)
-- [Frontend Reposity](https://github.com/Ajand/DUP-client)
-
-### Authors
-
-Aj Maz : aseedgeek@gmail.com
 
 ## Smart Contracts
 
@@ -29,8 +22,6 @@ When I was architecting the project I figured out that KeyManager is really good
 
 This way users can do all 5 types of actions that normal ERC725X users can do with the DAO universal profile.
 
-![Architecture](https://iili.io/69GQyX.png)
-
 ## Frontend
 
 When I read about LUKSO and LSPs, I thought that the LUKSO vision is for normal users of the internet, and for this vision to be completed we should have a wonderful UX. So I spent a lot of time optimizing the UX of my app and specially form design.
@@ -41,4 +32,3 @@ Here you can see some screen shots of the App:
 <a href="https://freeimage.host/i/69kY7f"><img src="https://iili.io/69kY7f.md.png" alt="69kY7f.md.png" border="0"></a>
 <a href="https://freeimage.host/i/69kae4"><img src="https://iili.io/69kae4.md.png" alt="69kae4.md.png" border="0"></a>
 
-[This is the orginal video that I recorded 5 minutes before deadline](https://www.youtube.com/watch?v=_HufYMsxhdM)
