@@ -8,7 +8,7 @@ For this hack I thought that DAOs are very well explored area in web3 and it mak
 
 ### Links:
 
-- [Video Demo](https://www.youtube.com/watch?v=oc5A16wiLSQ)
+- [Video Demo](https://youtu.be/vzjKxVsjtJ0)
 
 ## Smart Contracts
 
