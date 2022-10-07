@@ -1,4 +1,3 @@
-# DUP DAO
 
 ## Introduction
 
